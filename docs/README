@@ -1,2 +1,2 @@
 使用说明：
-  在一个没有中文的目录把该文件pull下来，打开终端输入start nginx.exe，然后浏览器访问localhost8080端口打开页面
+  在一个没有中文的目录把该文件pull下来，打开终端输入start nginx.exe，然后浏览器访问localhost18080端口打开页面
