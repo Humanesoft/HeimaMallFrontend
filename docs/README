@@ -1,3 +1,2 @@
-
-Documentation is available at http://nginx.org
-
+使用说明：
+  在一个没有中文的目录把该文件pull下来，打开终端输入start nginx.exe，然后浏览器访问localhost8080端口打开页面
