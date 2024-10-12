@@ -1,0 +1,1 @@
+2024/10/12 10:57:42 [error] 126960#126604: *12 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "POST /api/users/login HTTP/1.1", upstream: "http://127.0.0.1:8080/users/login", host: "localhost:18080", referrer: "http://localhost:18080/login.html"
